@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import IndecisionApp from './components/IndecisionApp';
+import FateApp from './components/FateApp';
 import 'normalize.css/normalize.css';
 import './styles/styles.css';
 
 
 const root = document.getElementById("app");
-ReactDOM.render(<IndecisionApp />, root);
+ReactDOM.render(<FateApp />, root);
 
 
 

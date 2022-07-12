@@ -16,3 +16,7 @@
 .remove-all:disabled {
     display: none;
 }
+
+.remove-all:hover {
+    box-shadow: 12px 8px 0px 0px;
+}

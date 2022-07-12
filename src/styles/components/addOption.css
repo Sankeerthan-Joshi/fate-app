@@ -1,0 +1,23 @@
+.text {
+    border: 5px solid #F2AA4CFF;
+    background-color: rgb(58, 57, 57);
+    margin: 10px;
+}
+
+.add-item {
+    border: none;
+    box-shadow: 0.5rem;
+    color: seashell;
+    background-color: #E94B3CFF;
+    font-weight: 300;
+    margin-bottom: 50px;
+    height: 40px;
+}
+
+.add-item:hover {
+    box-shadow: 12px 8px 0px 0px;
+}
+.add-item:active {
+    transform: scale(0.98);
+    box-shadow: 6px 4px 0px 0px ;
+}
