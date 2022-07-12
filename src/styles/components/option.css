@@ -1,0 +1,34 @@
+.option {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    height: 4rem;
+    background-color: #F2AA4CFF;
+    margin: auto;
+    justify-content: space-between;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-family: stencil std;
+    margin-bottom: 6px;
+}
+
+.option span {
+    margin: auto;
+}
+
+.option button {
+    border: none;
+    background-color: rgb(29, 15, 116);
+    color: white;
+    width: 4rem;
+    height: 4rem;
+}
+
+.option button:hover{
+    box-shadow: 6px 4px 0px 0px;
+}
+.option button:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 0px 0px;
+}

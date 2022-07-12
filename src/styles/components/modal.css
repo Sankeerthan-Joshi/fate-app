@@ -1,0 +1,38 @@
+.Modal {
+    background-color: black;
+    color: paleturquoise;
+    height: 50%;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.modal-header {
+    font-size: x-large;
+    margin-top: 5rem;
+    padding-top: 5rem;
+}
+
+.modal-option {
+    font-size: xx-large;
+    color: sandybrown;
+}
+
+.modal-button {
+    border: none;
+    box-shadow: 0.5rem;
+    color: seashell;
+    background-color: rgb(29, 15, 116);
+    font-size: 4rem;
+    padding: 10px 24px;
+}
+
+.modal-button:hover {
+    box-shadow: 12px 8px 0px 0px;
+}
+
+.modal-button:active {
+    transform: scale(0.98);
+    box-shadow: 6px 4px 0px 0px ;
+}

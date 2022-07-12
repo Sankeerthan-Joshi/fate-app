@@ -1,0 +1,18 @@
+.remove-all {
+    border: none;
+    box-shadow: 0.5rem;
+    color: seashell;
+    background-color: #E94B3CFF;
+    font-weight: 300;
+    margin-bottom: 50px;
+    height: 40px;
+}
+
+.remove-all:active{
+    background-color: black;
+    transform: scale(0.70);
+}
+
+.remove-all:disabled {
+    display: none;
+}

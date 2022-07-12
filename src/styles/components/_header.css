@@ -1,0 +1,22 @@
+.header {
+    background-color: #F2AA4CFF;
+    margin-bottom: 4.8rem;
+    padding: 1.6rem 0;
+    color: black;
+    text-align: center;
+}
+
+.header-title {
+    margin: 0;
+    font-size: 3.2rem;
+    font-family: Stencil std;
+    margin: auto;
+    padding: auto;
+}
+
+.header-subtitle {
+    color: #101820ff;
+    font-size: 1.6rem;
+    font-weight: 300;
+    margin-top: 2.5rem;
+}

@@ -1,0 +1,21 @@
+.action {
+    border: none;
+    box-shadow: 0.5rem;
+    color: seashell;
+    background-color: rgb(29, 15, 116);
+    font-size: 4rem;
+    padding: 10px 24px;
+    margin-bottom: 15px;
+}
+
+.action:hover {
+    box-shadow: 12px 8px 0px 0px;
+}
+.action:active {
+    transform: scale(0.98);
+    box-shadow: 6px 4px 0px 0px ;
+}
+
+.action:disabled {
+    display: none;
+}
